@@ -1,8 +1,16 @@
 # mantis
 ## Machine learning Part-
-we use Unemployment and mental illness survey data for this project.
-https://www.kaggle.com/michaelacorley/unemployment-and-mental-illness-survey(dataset link)
 
+Environment setup-
+1- Python 3.7.6
+2- Python libraries - pandas,numpy,sklearn,pickle,seaborn,matplotlib
+
+Dataset-
+Download data from-
+ https://www.kaggle.com/michaelacorley/unemployment-and-mental-illness-survey
+ 
+
+we use Unemployment and mental illness survey data for this project.
 Data Analysis-
 we have 31 features in our dataset, now we did feature engineering to find the best classifying features.
 Correlation is one of the best way to find the relation in the data, the correlation matrix is 
