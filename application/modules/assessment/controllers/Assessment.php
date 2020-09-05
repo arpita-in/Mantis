@@ -1,4 +1,5 @@
 <?php
+//include 'http://localhost/mantis/application/modules/assessment/PhPhpickle/phpicle.php'
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Assessment extends  MX_Controller  {
@@ -42,6 +43,9 @@ class Assessment extends  MX_Controller  {
 			
 			
 			$this->load->view('report.html');
+			
+		//$filename='gender_labelencoder.sav'
+		 // $data = phpickle::load_stream('gender_labelencoder.sav');
 			//echo "hrey";
 		}
 
