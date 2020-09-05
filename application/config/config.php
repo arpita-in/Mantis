@@ -23,8 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-//$config['base_url'] = 'http://localhost/meplus/';
-$config['base_url'] = 'http://54.191.87.217/meplus/';
+$config['base_url'] = 'http://localhost/mantis/index.php/';
+//$config['base_url'] = 'http://54.191.87.217/meplus/';
 
 /*
 |--------------------------------------------------------------------------
