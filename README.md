@@ -1,4 +1,17 @@
 # mantis
+##Web Part
+
+Environment setup-
+
+1- Apache Server
+
+2- MySQL
+
+3- Clone the repo
+
+4- Make sure that you clone repo in the folder which is configured with Server
+
+5- Run https://localhost/mantis/index.php/gearup
 ## Machine learning Part-
 
 Environment setup-
