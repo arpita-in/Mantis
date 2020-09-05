@@ -2,7 +2,9 @@
 ## Machine learning Part-
 
 Environment setup-
+
 1- Python 3.7.6
+
 2- Python libraries - pandas,numpy,sklearn,pickle,seaborn,matplotlib
 
 Dataset-
