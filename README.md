@@ -20,6 +20,12 @@ Environment setup-
 
 2- Python libraries - pandas,numpy,sklearn,pickle,seaborn,matplotlib
 
+
+# [![mantis1.png](https://i.postimg.cc/4yCgv5TF/mantis1.png)](https://postimg.cc/5YmTb8yw)
+# [![mantis2.png](https://i.postimg.cc/bYQcc1Pp/mantis2.png)](https://postimg.cc/238Xnb3K)
+# [![mantis3.png](https://i.postimg.cc/282trwKR/mantis3.png)](https://postimg.cc/mt1jSQ48)
+# [![mantis4.png](https://i.postimg.cc/mZSXyjRz/mantis4.png)](https://postimg.cc/kDBvnx2q)
+
 Dataset-
 Download data from-
  https://www.kaggle.com/michaelacorley/unemployment-and-mental-illness-survey
